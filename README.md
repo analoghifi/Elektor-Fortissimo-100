@@ -142,7 +142,7 @@ Next, three photos of the (almost) finished module. Only the connection of the +
 <img src="readme-pics/20220614093041_Photo-27-Finished-3.webp" />
 <br><br>
 The photos above shows the constructing of the complete prototype for new measurements. Only the two wires between K2 and K5 in the last photo’s are missing and LED5 (on the protection PCB).<br>
-&nbsp;<br> <strong>Measurements </strong><br>
+<h2>Measurements </h2>
 &nbsp;<br>
 &nbsp;Power supply: laboratory power supply 2 x 40DC regulated + 2 x 10000 µF/50V close to K1<br>
 &nbsp;<br>
@@ -201,7 +201,7 @@ The photos above shows the constructing of the complete prototype for new measur
 &nbsp;<br>
 &nbsp;Turn-on delay output relay&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;3.5 s<br>
 &nbsp;<br>
-&nbsp;Some plots of the power amplifier:<br>
+<h3>Some plots of the power amplifier:</h3>
 &nbsp;<br>
 <img src="readme-pics/20220614094117_Plot-A-AMPvsFRQ-1W-8ohm.webp" />
 <br>
@@ -223,7 +223,7 @@ The photos above shows the constructing of the complete prototype for new measur
 <br>
 <strong>Plot E</strong> shows maximum output power versus frequency at a distortion of 0.1 %. Blue plot is the 8 Ω load and red is 4 Ω. For 20 Hz, 1 kHz and 20 kHz output power in 8 Ω is 89.5 , 94 and 92.4 W respectively. For 4&nbsp; Ω: 163, 181 and 171 W. The exact levels depend of course strongly on the power supply voltage. Any voltage drop across cables from the power supply unit to the amplifier will change the values mentioned here. Reason why at the test setup two 10000 uF capacitors were placed close to K1. Peak current of a sine wave of 181 W in 4 Ω is 9.5 A! For maximum performance the power supply should be able to output 10 A DC at least.<br>
 &nbsp;<br> <br>
-DC voltages across several components of our prototype:<br>
+<h3>DC voltages across several components of our prototype:</h3>
 R7&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;7.90 V&nbsp;<br>
 R8&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;7.85 V<br>
 R13&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;7.90 V<br>
@@ -244,7 +244,7 @@ R55&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;18,7 mV amp cold<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;28,3 mV amp warmed up and no power<br>
 &nbsp;<br>
 LEDs (average) = 1.675 V<br> <br>
-Bill of materials<br>
+<h3>Bill of materials</h3>
 (PCB 210634-1 v1.1, schematic v1.2)<br>
 &nbsp;<br>
 Resistor (small 0.6 W resistors are metalfilm)<br>
@@ -341,8 +341,10 @@ IC3 = IC socket DIP-8<br>
 &nbsp;<br>
 Misc.<br>
 PCB 210364-1 v1.1<br> <br>
-Measurement BC546B/BC556B<br> <br> <span data-trix-cursor-target="left" data-trix-serialize="false"></span> <figure contenttype="" data-trix-attachment="{" class="attachment attachment--preview"><img loading="lazy" alt="" data-trix-mutable="true" data-trix-store-key="imageElement/1618/https://www.elektormagazine.com/assets/upload/images/42/20220615093212_Test-circuit-210364.png/635/449" src="https://cdn.xingosoftware.com/elektor/images/fetch/dpr_1.25,w_720/https%3A%2F%2Fwww.elektormagazine.com%2Fassets%2Fupload%2Fimages%2F42%2F20220615093212_Test-circuit-210364.png" popup-src="https://cdn.xingosoftware.com/elektor/images/fetch/dpr_1.25,w_1000/https%3A%2F%2Fwww.elektormagazine.com%2Fassets%2Fupload%2Fimages%2F42%2F20220615093212_Test-circuit-210364.png" width=""> <figcaption data-trix-placeholder="Add a caption…" class="attachment__caption">&nbsp;</figcaption></figure> <span data-trix-cursor-target="right" data-trix-serialize="false"></span><br>
-&nbsp;<br>
+<h3>Measurement BC546B/BC556B</h3>
+<br><br>
+<span data-trix-cursor-target="left" data-trix-serialize="false"></span> <figure contenttype="" data-trix-attachment="{" class="attachment attachment--preview"><img loading="lazy" alt="" data-trix-mutable="true" data-trix-store-key="imageElement/1618/https://www.elektormagazine.com/assets/upload/images/42/20220615093212_Test-circuit-210364.png/635/449" src="https://cdn.xingosoftware.com/elektor/images/fetch/dpr_1.25,w_720/https%3A%2F%2Fwww.elektormagazine.com%2Fassets%2Fupload%2Fimages%2F42%2F20220615093212_Test-circuit-210364.png" popup-src="https://cdn.xingosoftware.com/elektor/images/fetch/dpr_1.25,w_1000/https%3A%2F%2Fwww.elektormagazine.com%2Fassets%2Fupload%2Fimages%2F42%2F20220615093212_Test-circuit-210364.png" width=""> <figcaption data-trix-placeholder="Add a caption…" class="attachment__caption">&nbsp;</figcaption></figure> <span data-trix-cursor-target="right" data-trix-serialize="false"></span>
+<br>&nbsp;<br>
 To select the transistors for the differential input stages simple circuits can be build on a bread board. Best way is to use two transistors placed against each other (and clamp) and measure the difference between the 3.3. kΩ resistors for lowest offset. Across the 10 kΩ the base currents can be measured. Preferably the hFE of the NPN must be the same as that of the PNP. Swap transistors for the lowest offset between the collector resistors. This way the measurement is less temperature depended. A simpler way is to measure each transistor, UBE and hFE and make a table and select the best matches. But this is much more temperature depend. You can use 40 V for the power supply for the collector voltage if available. 6k8 should be a little lower (6k2) if to measure at 2.4 mA.<br>
 &nbsp;<br>
 For the second differential stages a few things need to be adapted. The current per transistor must be increased to approximately 9 mA per transistor. The supply voltage for the collector must be 8 V. Select the common emitter resistor and negative supply voltage (for the NPN) to set a total current of 18 mA.<br>
