@@ -2,8 +2,10 @@
 by Ton Giesberts*: https://www.elektormagazine.com/labs/fortissimo-100  <br>
 you can buy the komplete Kit here from Elektor: https://www.elektor.com/elektor-fortissimo-100-power-amplifier-kit  <br>
 https://youtu.be/alOJrB1mdp8?t=882 <br><br>
-if you like a SMPS instead of a classical linear power supply,<br>
-here is a recommendation: https://connexelectronic.com/product/smps800re/ <br><br>
+<strong>!!! important note: the power supply must be regulated (fixed voltage) to +/- 40 VDC. <br>
+A large transformer with bridge rectifier and smoothing capacitors is not advised as a power supply for this amplifier !!! </strong><br>
+<br>
+here is a SMPS recommendation: https://connexelectronic.com/product/smps800re/ <br><br>
 *(https://www.elektormagazine.com/authors/101/ton-giesberts)
 <hr>
 <section class="Labs__container">
