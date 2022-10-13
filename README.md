@@ -1,9 +1,10 @@
 <h1 itemprop="headline" class="pt-5 mt-5 c-font-secondary c-font-bold c-margin-t-20 c-margin-b-20">Elektor "Fortissimo-100" Power Amplifier Kit</h1> 
-by Ton Giesberts: https://www.elektormagazine.com/labs/fortissimo-100  <br>
+by Ton Giesberts\*: https://www.elektormagazine.com/labs/fortissimo-100  <br>
 you can buy the komplete Kit here from Elektor: https://www.elektor.com/elektor-fortissimo-100-power-amplifier-kit  <br>
 https://youtu.be/alOJrB1mdp8?t=882 <br><br>
 if you like a SMPS instead of classical linear power supply,<br>
-here is a recommendation: https://connexelectronic.com/product/smps800re/
+here is a recommendation: https://connexelectronic.com/product/smps800re/ <br><br>
+\*(https://www.elektormagazine.com/authors/101/ton-giesberts)
 <hr>
 <section class="Labs__container">
 <article class="LabProject__description mb-20">
