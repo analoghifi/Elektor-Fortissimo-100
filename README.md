@@ -4,6 +4,7 @@ you can buy the komplete Kit here from Elektor: https://www.elektor.com/elektor-
 https://youtu.be/alOJrB1mdp8?t=882 <br><br>
 <strong>!!! important note: the power supply must be regulated (fixed voltage) to +/- 40 VDC. <br>
 A large transformer with bridge rectifier and smoothing capacitors is not advised as a power supply for this amplifier !!! </strong><br>
+(because of making use of a (somehow unconventional) symmetrical bootstrap circuit within the output stage)<br>
 <br>
 here is a SMPS recommendation: https://connexelectronic.com/product/smps800re/ <br><br>
 *(https://www.elektormagazine.com/authors/101/ton-giesberts)
