@@ -247,7 +247,7 @@ LEDs (average) = 1.675 V<br> <br>
 <h3>Bill of materials</h3>
 (PCB 210634-1 v1.1, schematic v1.2)<br>
 &nbsp;<br>
-Resistor (small 0.6 W resistors are metalfilm)<br>
+<h4>Resistor (small 0.6 W resistors are metalfilm)</h4>
 R1,R74 = 1 MΩ, 1 %, 0.6 W<br>
 R2,R4 = 390 Ω, 1 %, 0.6 W<br>
 R3,R5,R20,R23,R64,R66,R69 = 10 kΩ, 1 %, 0.6 W<br>
@@ -279,7 +279,7 @@ R73 = 100 kΩ, 1 %, 0.6 W<br>
 R75 = 150 kΩ, 1 %, 0.6 W<br>
 R76 = 10R, 5%, 2 W, metal film or metal oxide, body size 5 x 12 mm max.<br>
 &nbsp;<br>
-Capacitor<br>
+<h4>Capacitor</h4>
 C1 = 4.7 µF, 5 %, 50 VDC, pitch 5/7.5 mm, PET, body size 7.6 x 9.7 mm max.<br>
 C2 = 1.5 nF, 5 %, 100 VDC, pitch 5 mm, body size 2.5 x 7.2 mm max.<br>
 C3 = 10 pF, ±0.5 pF, 100 V, pitch 5 mm, C0G/NP0 (FG28C0G2A100DNT00 TDK)<br>
@@ -298,10 +298,10 @@ C33 = 1 µF, 5 %, 63 VDC, pitch 5/7.5 mm, PET, body size 7.6 x 9.7 mm max.<br>
 C34 = 22 µF, 20 %, 35 V, bip., D 8 mm max., pitch 2.5/3.5 mm<br>
 &nbsp;<br>
 &nbsp;<br>
-Inductor<br>
+<h4>Inductor</h4>
 L1 = 1.5 mm enamelled copper wire,&nbsp; &lt; 0.6 m, 13 turns, ID 10 mm<br>
 &nbsp;<br>
-Semiconductor<br>
+<h4>Semiconductor</h4>
 D1,D2 = Zener diode 20 V, 5 %, 0.4 W, DO-35 (BZX79-C20,113 Nexperia)<br>
 D3 = Zener diode 33 V, 5 %, 1.3 W, DO-41 (BZV85-C33,113 Nexperia)<br>
 D4,D5 = 1N4148, DO-35<br>
@@ -319,7 +319,7 @@ T25 = BS170, TO-92<br>
 IC1, IC2 = LM334Z, TO-92<br>
 IC3 = OPA177FP, DIP-8<br>
 &nbsp;<br>
-Other<br>
+<h4>Other</h4>
 K1 = 3way terminal block, pitch 5 mm (1729131, MKDSN 1,5/ 3-5,08 Phoenix Contact)<br>
 K2,K5 = 2way terminal block, pitch 5 mm (1729128 or MKDSN 1,5/ 2-5,08 Phoenix Contact)<br>
 INPUT = 2 x Press Mount Terminal Pin, 1.3 mm, PCB hole size 1.4 mm (13.14.419 Ettinger)<br>
@@ -339,8 +339,9 @@ T17,T18 = Ceramic thermal pad (for T17/T18), 18 x 12 x 1.5 mm mm (SL-019-AL15 Si
 T17,T18 = Insulating bushing, TO-220 (for T17/T18, IB 6 Fischer Elektronik)<br>
 IC3 = IC socket DIP-8<br>
 &nbsp;<br>
-Misc.<br>
-PCB 210364-1 v1.1<br> <br>
+<h4>Misc.</h4>
+PCB 210364-1 v1.1
+<br><br>
 <h3>Measurement BC546B/BC556B</h3>
 <br><br>
 <img src="readme-pics/20220615093212_Test-circuit-210364.webp" />
