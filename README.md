@@ -90,42 +90,42 @@ After this has been done almost all parts can be fitted on the PCBs. Start with 
 - capacitors C15 and C16<br>
 - capacitors C20...C27<br>
 &nbsp;<br>
-15
+<img src="readme-pics/20220614092001_Photo-15-Standoffs-output.webp" />
 <br><br> 
-16
+<img src="readme-pics/20220614092039_Photo-16-T13-T16-fitted-bottom.webp" />
 <br>
 two metal standoffs that connect the output of the main PCB to the smaller one above it can be fitted and each fastened with a 8 mm long M3 cheese head screw.
 <br>
 &nbsp;<br> 
-17
+<img src="readme-pics/20220614092125_Photo-17-Special-pliers.webp" />
 <br>
 - transistors T13,T14 and T15,T16 can be fitted on the small heatsinks. A thermal relief of the pins of each transistor is recommended to reduce mechanical stress caused by temperature changes. It’s best to make a small bent in the pins away from the heatsink. The photo shows special pliers and an adapted transistor. The bend must be close enough to the package, so the pins of the transistors will fit through the PCB
 <br><br>
-18
+<img src="readme-pics/20220614092212_Photo-18-Small-heatsink-2-transistors-fitted.webp" />
 <br><br> 
-19
+<img src="readme-pics/20220614092317_Photo-19-T13-T16-fitted.webp" />
 <br>
 - First apply a small amount of thermal grease to the back of each transistor. No insulation is needed since the package of these transistors is completely plastic. Place the head of the screw toward the input of the PCB. You can only use a screwdriver from this side to fasten the screw. Use pliers to hold the nut on the other side of the heatsink, but don’t tighten the screws yet. Place a metal washer for M3 between the head of the screw and the transistor. The photo shows the transistors fitted to the small heatsink. Solder the pins of the two heatsinks to the PCB first and tighten the screws of the transistors and only then solder the transistor pins.
 <br>
 &nbsp;<br>
-20
+<img src="readme-pics/20220614092423_Photo-20-T17-T22-temporarily-fitted.webp" />
 <br>
 - The photo shows the transistors fitted temporarily with nuts to solder them. Also the PCB is fastened onto the 10 mm long standoffs on the heatsink with 30 mm long standoffs (or use nuts for now). Also place the ceramic washers for the transistors and the insulating bushes for the TO-220 transistors since all of this can influence the exact location of each transistor.
 <br>
 &nbsp;<br>
-21
+<img src="readme-pics/20220614092517_Photo-21-T17-T22-soldered-thermal-grease.webp" />
 <br>
 - Try to solder at least the two pins at either side of each large power transistor without melting plastic of various capacitors, but more pins if possible. A longer soldering tip is recommended. All pins of T17 and T18 can be soldered from the top. When this is done remove the screws first and then the standoffs that hold the PCB. Take the PCB carefully from the heatsink and make sure not to bend the transistors. The transistors are now attached to the PCB at there final position. Solder the rest of the pins from the bottom side. 2way screw terminal block K2 was not soldered yet to give better access to the pins of T19 and should be done now. Then apply a very thin amount of thermal grease to the back of the six transistors and one side of each ceramic washer that is placed against the heatsink.
 <br><br>
-22
+<img src="readme-pics/20220614092646_Photo-22-Ceramic-washers-thermal-grease.webp" />
 <br>
 Place the heatsink upright with the holes for the transistors at the top. Place the six 16 mm (black) screws halfway through the heatsink and slide the ceramic washers with the greased side over the screws against the heatsink as the photo shows.
 <br><br>
-23
+<img src="readme-pics/20220614092726_Photo-23-Finished-main-PCB-fitted-to-heatsink.webp" />
 <br>
 Place the PCB onto the standoffs on the heatsink while making sure the screws go through the transistors. Place the four 30 mm standoffs and two M3 nuts to fasten the PCB to the heatsink. Also use M3 washers to fix the 4 power transistors and don’t forget the insulating bushes for T17 and T18 (type IB 6 from Fischer Elektronik or similar). Place IC3 in its socket. The photo shows the almost finished power amplifier. Tighten all screws.
 <br><br>
-24
+<img src="readme-pics/20220614092828_Photo-24-Rear-heatsink.webp" />
 <br>
 This is how the rear of the heatsink looks like then. I used the longer 16 mm screws for T17/T18, but easier is to use shorter 12 mm screws.<br>
 &nbsp;<br>
