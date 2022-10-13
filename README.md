@@ -361,3 +361,6 @@ For the second differential stages a few things need to be adapted. The current 
 </div>
 </article>
 </section>
+<h3>Comments / Discussion</h3>  
+from here https://www.elektormagazine.com/labs/fortissimo-100
+<br><br><br><img src="readme-pics/discussions.png" />
