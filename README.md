@@ -4,7 +4,7 @@ you can buy the komplete Kit here from Elektor: https://www.elektor.com/elektor-
 https://youtu.be/alOJrB1mdp8?t=882 <br><br>
 <strong>!!! important note: the power supply must be regulated (fixed voltage) to +/- 40 VDC. </strong><br>
 (because of making use of a (somehow unconventional) symmetrical bootstrap circuit within the output stage)<br>
-<strong>you may use a linear regulated power supply or a regulated SMPS - both of them capable of delivering higher peak currents than the nominal P/U of this Amp without triggering their current limit protection.<br>
+<strong>you may use a linear regulated power supply or a regulated SMPS - both of them capable of delivering higher peak currents than the nominal P/U** of this Amp without triggering their current limit protection.<br>
 The classical approach using a large transformer with bridge rectifier and smoothing capacitors is <ins>not</ins> advised as a power supply for this amplifier !!! </strong><br>
 And: You have to use one power supply per Amp module - don't use 2 Amp modules (stereo) connected to the same single power supply <br>
 
