@@ -2,12 +2,16 @@
 by Ton Giesberts*: https://www.elektormagazine.com/labs/fortissimo-100  <br>
 you can buy the komplete Kit here from Elektor: https://www.elektor.com/elektor-fortissimo-100-power-amplifier-kit  <br>
 https://youtu.be/alOJrB1mdp8?t=882 <br><br>
-<strong>!!! important note: the power supply must be regulated (fixed voltage) to +/- 40 VDC. <br>
-A large transformer with bridge rectifier and smoothing capacitors is not advised as a power supply for this amplifier !!! </strong><br>
+<strong>!!! important note: the power supply must be regulated (fixed voltage) to +/- 40 VDC. </strong><br>
 (because of making use of a (somehow unconventional) symmetrical bootstrap circuit within the output stage)<br>
+<strong>you may use a linear regulated power supply or a regulated SMPS - both of them capable of delivering higher peak currents than the nominal P/U of this Amp without triggering their current limit protection.<br>
+The classical approach using a large transformer with bridge rectifier and smoothing capacitors is <ins>not</ins> advised as a power supply for this amplifier !!! </strong><br>
+And: You have to use one power supply per Amp module - don't use 2 Amp modules (stereo) connected to the same single power supply <br>
+
 <br>
-here is a SMPS recommendation: https://connexelectronic.com/product/smps800re/ <br><br>
-*(https://www.elektormagazine.com/authors/101/ton-giesberts)
+here is a (regulated) SMPS recommendation: https://connexelectronic.com/product/smps800re/ <br><br>
+*(https://www.elektormagazine.com/authors/101/ton-giesberts)<br>
+**(P/U=I, P is rated power and U is the output voltage of the Amp module - calculate with peak values and the lowest speaker impedance that can occur)
 <hr>
 <section class="Labs__container">
 <article class="LabProject__description mb-20">
