@@ -365,7 +365,7 @@ PCB 210364-1 v1.1
 <br>&nbsp;<br>
 To select the transistors for the differential input stages simple circuits can be build on a bread board. Best way is to use two transistors placed against each other (and clamp) and measure the difference between the 3.3. kΩ resistors for lowest offset. Across the 10 kΩ the base currents can be measured. Preferably the hFE of the NPN must be the same as that of the PNP. Swap transistors for the lowest offset between the collector resistors. This way the measurement is less temperature depended. A simpler way is to measure each transistor, UBE and hFE and make a table and select the best matches. But this is much more temperature depend. You can use 40 V for the power supply for the collector voltage if available. 6k8 should be a little lower (6k2) if to measure at 2.4 mA.<br>
 &nbsp;<br>
-For the second differential stages a few things need to be adapted. The current per transistor must be increased to approximately 9 mA per transistor. The supply voltage for the collector must be 8 V. Select the common emitter resistor and negative supply voltage (for the NPN) to set a total current of 18 mA.<br>
+For the second differential stages a few things need to be adapted. The current per transistor must be increased to approximately 9 mA per transistor. The supply voltage for the collector must be 8 V. Select the common emitter resistor and negative supply voltage (for the NPN) to set a total current of 18 mA.<br><br>see here as well: https://www.youtube.com/watch?v=fk-4Dr2VX8s&t=65s<br>
 &nbsp;<br>
 &nbsp;</div> 
 </div>
