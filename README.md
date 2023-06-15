@@ -10,6 +10,7 @@ And: You have to use one power supply per Amp module - don't use 2 Amp modules (
 
 <br>
 ➔ here is a linear regulated power supply recommendation: https://www.elektormagazine.com/labs/linear-voltage-regulator-for-fortissimo-100<br>
+(kit in the shop: ➔ https://www.elektor.com/elektor-40-v-linear-voltage-regulator-kit)<br><br>
 ➔ here is a (regulated) SMPS recommendation: https://connexelectronic.com/product/smps800re/ <br><br>
 *(https://www.elektormagazine.com/authors/101/ton-giesberts)<br>
 **(P/U=I, P is rated power and U is the output voltage of the Amp module - calculate with peak values and the lowest speaker impedance that can occur)
